@@ -1,1 +1,1 @@
-# sample-corporate
+# sample-furniture
